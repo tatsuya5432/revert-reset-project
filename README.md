@@ -1,2 +1,1 @@
 git練習用
-revert練習用 featureブランチで間違えて変更
